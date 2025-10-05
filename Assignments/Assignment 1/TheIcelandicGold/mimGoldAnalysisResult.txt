@@ -1,0 +1,52 @@
+Number of sentences: 58412
+Sentence no. 100: 
+Púttað á Listatúni í dag , laugardag , kl. 10.30 .
+
+Number of tokens: 1000218
+Number of type: 106529
+
+The 10 most frequent tokens: 
+. => 49066
+að => 35749
+og => 33813
+, => 29990
+í => 27622
+á => 21833
+er => 16604
+sem => 15199
+til => 9888
+um => 8799
+
+The 20 most frequent tags: 
+AF => 109899
+AA => 74151
+C => 68278
+PL => 53212
+SFG3EN => 36289
+PK => 30647
+SNG => 26345
+TA => 22992
+SFG3EÞ => 19773
+CN => 19540
+SÞGHEN => 17190
+PA => 13043
+N----S => 12783
+CT => 12664
+SFG3FN => 12294
+NKEN => 11411
+NVEN => 11171
+NVEO => 11123
+NHEÞ => 10979
+NVEÞ => 10281
+
+The 10 most frequent PoS tags following the tag ’af’: 
+NVEÞ => 5714
+NHEÞ => 5361
+NKEÞ => 4222
+CN => 3903
+NVEO => 3556
+NKEO => 3347
+NHEO => 3046
+NHEÞG => 2867
+NVEÞG => 2723
+FPHEÞ => 2703
